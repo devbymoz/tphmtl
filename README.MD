@@ -1,9 +1,8 @@
+# TP HTML sur la compréhension des balises semantiques et l'accessibilité
 
-Vous utiliserez à minima les balises avec les attributs associés et dans le respect du validateur du w3c (https://validator.w3.org/) et des règles du rgaa (https://accessibilite.numerique.gouv.fr/).
+## Ce qui a été fait et les raisons :
+- Je n'ai pas indiqué de titre à l'image car elle n'apporte rien au niveau de l'accessibilité.
+- Pour chaque lien du menu, j'ai ajouté une balise title pour indiquer au non voyant où mène le lien.
+- J'ai utilisé HeadingsMap pour vérifier la hiérarchie des titres.
+- La page a bien été validée par le validor du W3C.
 
-Je ne regarderai pas le rendu visuel, il me suffit donc d'un ou de plusieurs fichiers html.
-Ajoutez toujours à vos devoir un fichier README.md qui explique votre démarche et s'il y a des manipulations spécifiques à exécuter pour évaluer votre travail.
-
-
-
-title, meta,
