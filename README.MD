@@ -1,4 +1,3 @@
-Sans utiliser de balises div et span, écrivez le code html constitutif d'une page CV.
 
 Vous utiliserez à minima les balises avec les attributs associés et dans le respect du validateur du w3c (https://validator.w3.org/) et des règles du rgaa (https://accessibilite.numerique.gouv.fr/).
 
